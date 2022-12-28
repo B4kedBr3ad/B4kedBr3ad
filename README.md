@@ -12,3 +12,5 @@ A student at highschool<img src="https://ghicons.github.com/assets/images/blue/p
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B4kedBr3ad&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/B4kedBr3ad/B4kedBr3ad/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/B4kedBr3ad/B4kedBr3ad/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+https://github-profile-trophy.vercel.app/?username=B4kedBr3ad&rank=SSS
